@@ -17,5 +17,5 @@ module.exports = {
   ],
 };
 
-// The command to print/write the config that will be used for a `file.js`.
+// The command to print/write the config that will be used for `file.js`.
 // node_modules/.bin/eslint --print-config file.js  > outFile.json
