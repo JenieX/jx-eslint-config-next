@@ -1,9 +1,9 @@
 {
-  "name": "eslint-config-next",
+  "name": "jx-eslint-config-next",
   "version": "1.1.0",
   "author": "JenieX",
   "license": "MIT",
-  "homepage": "https://github.com/JenieX/eslint-config-next",
+  "homepage": "https://github.com/JenieX/jx-eslint-config-next",
   "keywords": [
     "eslint-config"
   ],
