@@ -1,6 +1,6 @@
 {
   "name": "@jeniex/eslint-config-next",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "author": "JenieX",
   "license": "MIT",
   "homepage": "https://github.com/JenieX/jx-eslint-config-next",
@@ -23,4 +23,4 @@
   "publishConfig": {
     "access": "public"
   }
-}
+} 
